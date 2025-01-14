@@ -38,7 +38,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Microsoft Designer](https://designer.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,12 +46,11 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Microsoft Designer Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
@@ -64,36 +63,43 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## Roteiro para criação do Titulo utilizado no Chat GPT
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em criptomoedas e eu gostaria de uma ajuda sua para criar 5 sugestões 
+de nomes criativos para um podcast de criptomoedas feito por jovens, e que tenha algum trocadilho jovem no nome 
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+O podcast vai falar sobre dicas e novidades sobre o mundo das criptomoedas e o que está acontecendo no mercado 
 
----
+{REGRAS}
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha alguma informação sobre a tecnologia utilizada 
+- O nome deve conter alguma palavra forte que remeta a criptomoedas 
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+
+## Roteiro utilizado para escrever o episódio do podcast
+ocê é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em criptomoedas cujo o nome é "Papo Cripto
+A jornada pela tecnologia e o futuro das criptomoedas" e tem foco em criptomoedas,  com o público alvo de iniciantes em criptomoedas
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'primo pobre', como se fossem escritos pelo Paulo Guedes
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Criptomoedas 
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta criptomoedas
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Vini e esse foi o papo cripto dessa semana' 
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Vini
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 10 mil palavras
