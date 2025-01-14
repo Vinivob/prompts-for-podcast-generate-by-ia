@@ -80,7 +80,7 @@ O podcast vai falar sobre dicas e novidades sobre o mundo das criptomoedas e o q
 - Não quero que o título contenha palavras em inglês
 
 ## Roteiro utilizado para escrever o episódio do podcast
-ocê é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em criptomoedas cujo o nome é "Papo Cripto
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em criptomoedas cujo o nome é "Papo Cripto
 A jornada pela tecnologia e o futuro das criptomoedas" e tem foco em criptomoedas,  com o público alvo de iniciantes em criptomoedas
 
 o formato do roteiro deve ser
